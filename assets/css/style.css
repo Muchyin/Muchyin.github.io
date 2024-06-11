@@ -1,0 +1,82 @@
+.header-text h2 {
+    font-size: 2rem; /* Default size for smaller screens */
+}
+
+@media (min-width: 576px) {
+    .header-text h2 {
+        font-size: 2.5rem;
+    }
+}
+
+@media (min-width: 768px) {
+    .header-text h2 {
+        font-size: 3rem;
+    }
+}
+
+@media (min-width: 992px) {
+    .header-text h2 {
+        font-size: 3.5rem;
+    }
+}
+
+@media (min-width: 1200px) {
+    .header-text h2 {
+        font-size: 4rem;
+    }
+}
+
+.logo img {
+    max-width: 50px; 
+    max-height: 50px; 
+}
+
+.header-text {
+text-align: center;
+}
+
+.header-text h2 {
+    font-size: 2rem; /* Default size for smaller screens */
+}
+
+.header-text {
+text-align: center;
+}
+
+.card-img-top {
+            width: 100%;
+            height: auto;
+        }
+        .card-body {
+            text-align: center;
+        }
+
+        .logo img {
+            max-width: 50px; 
+            max-height: 50px; 
+        }
+
+        .header-text h2 {
+    font-size: 2rem; /* Default size for smaller screens */
+}
+
+.header-text {
+text-align: center;
+}
+
+.card-img-top {
+            width: 100%;
+            height: auto;
+        }
+        .card-body {
+            text-align: center;
+        }
+        .logo img {
+            max-width: 50px; 
+            max-height: 50px; 
+        }
+        .profile-img {
+            max-width: 200px; /* Ubah ukuran sesuai kebutuhan */
+            max-height: 400px; /* Ubah ukuran sesuai kebutuhan */
+        }
+        
